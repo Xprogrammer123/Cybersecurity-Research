@@ -21,4 +21,10 @@ This repository contains research on cybersecurity, hacking, and penetration tes
 *   **SpiderFoot:** An OSINT automation tool for threat intelligence and attack surface mapping ([https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot))
 *   **Sn1per:** An Attack Surface Management Platform ([https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per))
 
+![Cybersecurity Image](https://example.com/cybersecurity_image.png)
+
+## Video Demonstration
+
+[Cybersecurity Demo](https://www.youtube.com/watch?v=xxxxxxxxxxx)
+
 More research and files to be added soon.
