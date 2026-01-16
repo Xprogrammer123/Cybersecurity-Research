@@ -16,4 +16,9 @@ This repository contains research on cybersecurity, hacking, and penetration tes
 *   **Ethical Hacking and Cybersecurity:** Discusses the ethical considerations, legal contexts and challenges that arises with ethical hacking (Asif et al., 2024).
 *   **Coherence-driven inference for cybersecurity:** LLMs can compile weighted graphs on natural language data to enable automatic coherence-driven inference (CDI) relevant to red and blue team operations in cybersecurity (Huntsman, 2025).
 
+## Tools:
+
+*   **SpiderFoot:** An OSINT automation tool for threat intelligence and attack surface mapping ([https://github.com/smicallef/spiderfoot](https://github.com/smicallef/spiderfoot))
+*   **Sn1per:** An Attack Surface Management Platform ([https://github.com/1N3/Sn1per](https://github.com/1N3/Sn1per))
+
 More research and files to be added soon.
